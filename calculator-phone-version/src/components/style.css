@@ -1,0 +1,65 @@
+#calculator{
+  min-height: 55px;
+  font-size: 2em;
+  background-color:beige;
+  
+}
+.calculator1{
+ 
+  border: 4px solid black;
+  box-sizing: border-box;
+  height: 38em;
+}
+.col-2{
+  padding: 1px;
+  
+}
+
+#bir{
+  border-radius: 10px 25px 25px 10px;
+}
+#iki{
+  border-radius: 25px 25px 25px 25px;
+}
+#üç{
+  border-radius: 25px 25px 25px 25px;
+}
+#dört{
+  border-radius: 10px 25px 25px 10px;
+}
+#beş{
+  border-radius: 25px 25px 25px 25px;
+}
+#altı{
+  border-radius: 25px 25px 25px 25px;
+}
+#yedi{
+  border-radius: 10px 10px 25px 10px;
+}
+#sekiz{
+  border-radius: 10px 10px 25px 25px;
+}
+#dokuz{
+  border-radius:10px 10px 25px 25px;
+}
+#sıfır{
+  border-radius: 25px 25px 10px 10px;
+}
+#alldelete{
+  border-radius: 10px 25px 10px 10px;
+}
+#enter{
+  border-radius: 25px 25px 10px 10px;
+}
+#artı{
+  border-radius: 25px 10px 10px 10px;
+}
+#eksi{
+  border-radius: 25px 10px 10px 25px;
+}
+#çarpı{
+  border-radius: 25px 10px 10px 25px;
+}
+#slash{
+  border-radius: 10px 10px 10px 25px;
+}
