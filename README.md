@@ -1,6 +1,8 @@
 # Calculator-App-Phone-Version
 -Görsel olarak telefonun hesap makinesi konseptinde yapılmıştır.
+
 -10 rakam girdisi
+
 -Delete, işlemler ve eşittir butonu
 
 
